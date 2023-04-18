@@ -1,0 +1,6 @@
+tr, th, td{
+    background-color: brown;
+    margin: 22px;
+    padding: 6px;
+    border: 8px;
+}
